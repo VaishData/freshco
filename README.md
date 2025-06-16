@@ -37,18 +37,4 @@ The project includes the following datasets (synthetic data created for academic
 - Power Pivot (optional for advanced aggregation)
 - Excel Charts & Slicers
 
-## 📁 Repository Structure
-```bash
-Freshco-Hypermarket-Excel-Project/
-│
-├── data/
-│   ├── orders.xlsx
-│   ├── customers.xlsx
-│   └── delivery_details.xlsx
-│
-├── dashboards/
-│   └── Freshco_Dashboard.xlsx
-│
-├── README.md
-└── summary.pdf (optional executive report)
-
+link:  https://docs.google.com/spreadsheets/d/1jL0yBeta_IVMfLbVHaZYHrQDn-LZ0dJh/edit?usp=drive_link&ouid=113158901627495060237&rtpof=true&sd=true
