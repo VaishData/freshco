@@ -1,0 +1,51 @@
+FRESHCO HYPERMARKET – EXCEL CAPSTONE PROJECT
+---------------------------------------------
+
+📌 PROJECT OVERVIEW:
+This Excel-based project provides an operational and customer analytics dashboard for Freshco Hypermarket. It covers key aspects such as:
+
+LINK: https://docs.google.com/spreadsheets/d/1jL0yBeta_IVMfLbVHaZYHrQDn-LZ0dJh/edit?usp=drive_link&ouid=113158901627495060237&rtpof=true&sd=true
+
+
+1. Order Completion Rate
+2. Customer Analysis
+3. Delivery Performance (Arrival → Pickup → Delivery)
+
+---------------------------------------------
+📊 KEY SHEETS & DATA STRUCTURE:
+
+1. ORDERS SHEET:
+- Order ID
+- Customer ID
+- Order Date
+- Completion Date
+- Status (Completed/Pending)
+- Delivery Type (Standard/Express)
+
+2. CUSTOMER INFO SHEET:
+- Customer ID
+- Name
+- Gender
+- Region
+- First Order Date
+
+3. DELIVERY DETAILS SHEET:
+- Order ID
+- Arrival Time
+- Pickup Time
+- Delivery Time
+
+---------------------------------------------
+✅ KPIs CALCULATED:
+
+1. Completion Rate:
+=COUNTIF(StatusRange, "Completed") / COUNTA(StatusRange)
+
+2. Delivery Times:
+- Arrival to Pickup = Pickup Time - Arrival Time
+- Pickup to Delivery = Delivery Time - Pickup Time
+
+3. Customer Metrics:
+- Total Orders Per Customer
+- Repeat vs First-Time Buyers
+- Region-wise Customer Count
