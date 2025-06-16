@@ -37,4 +37,4 @@ The project includes the following datasets (synthetic data created for academic
 - Power Pivot (optional for advanced aggregation)
 - Excel Charts & Slicers
 
-link:  https://docs.google.com/spreadsheets/d/1jL0yBeta_IVMfLbVHaZYHrQDn-LZ0dJh/edit?usp=drive_link&ouid=113158901627495060237&rtpof=true&sd=true
+solution sheet link:  https://docs.google.com/spreadsheets/d/1jL0yBeta_IVMfLbVHaZYHrQDn-LZ0dJh/edit?usp=drive_link&ouid=113158901627495060237&rtpof=true&sd=true
